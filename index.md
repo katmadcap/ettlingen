@@ -27,6 +27,7 @@ layout: default
 {% include_relative  500-anmeldung.md %}
 
 ### Жильё/ Wohnung
+{% include_relative  600-wohnung.md %}
 
 ### Деньги. Социальная помощь / Sozialhilfe
 
