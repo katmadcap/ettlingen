@@ -1,5 +1,5 @@
 
-^#### Школы в г. Ettlingen/ Schulen
+#### Школы в г. Ettlingen/ Schulen
 
 Все дети, с 6 до 18 лет, проживающие на территории Германии обязаны посещать школы. Вновь прибывшие дети должны это сделать не позднее чем через 6 месяцев после прибытия или к началу следующего учебного года. Но у детей есть возможность начать ходить в школу уже сейчас.
 
@@ -19,11 +19,11 @@
 
 В Эттлингине есть школы с подготовительными классами для тех, кто не знает немецкий язык:
 
-^#### **Начальная школа (6-12 лет):**
+#### **Начальная школа (6-12 лет):**
 
 Адрес: Lindenweg 6 - 8, 76275 Ettlingen Telefon: 07243 101-339 Fax: 07243 101-554 Schulleitung: Edelgard Schieschke Stellvertretung: Ulrike Resch Sekretariat: Heidi Gruber Jugendsozialarbeit: Lisa Tonschek (Telefon: 07243 101-389) Internet: [www.pestalozzischule-ettlingen.de](http://www.pestalozzischule-ettlingen.de/) E-Mail: [edelgrad.schieschke@pes-ettlingen.de](mailto:edelgrad.schieschke@pes-ettlingen.de)
 
-^#### **Средняя школа (13-15 лет) :**
+#### **Средняя школа (13-15 лет) :**
 
 **Schillerschule:** Адрес: Scheffelstr. 1, 76275 Ettlingen Telefon: 07243 101-334 Fax: 07243 101-557 Директор: Stefanie Wagner Заместитель: Katharina Schneider Секриториат: Henrike Ochs Jugendsozialarbeit: Ina Gutmann (Telefon: 07243 101-335) Internet: [www.schillerschule-ettlingen.de](http://www.schillerschule-ettlingen.de/) E-Mail: [stefanie.wagner@schi-ettlingen.de](mailto:stefanie.wagner@schi-ettlingen.de)
 
@@ -39,7 +39,7 @@ Tel: 07243 101343
 
 E-Mail: [sekretariat@wlrs.de](mailto:sekretariat@wlrs.de)
 
-^#### **Старшая школа (16-18 лет) :**
+#### **Старшая школа (16-18 лет) :**
 
 Гимназия сельскохозяйственных наук, гимназия биотехнологий, гимназия общественных наук, профессиональные школы, домашняя экономика, сельское хозяйство, социальное образование)
 

@@ -8,75 +8,75 @@ layout: default
 
 > Das ist eine inoffizielle Webseite über die Stadt Ettlingen zur Unterstützung für Menschen, die vor dem Krieg in der Ukraine hierher geflohen sind. Wir haben sie ins Leben gerufen, um alle Informationen über unsere Stadt zu bündeln und neuen Menschen zu helfen, sich hier einzuleben.
 
-^#### Соседи
+## Соседи
 Info для Waldbronn / Вальдброн здесь тоже частично представлена. [Чат помощи в Вальдброне - здесь](https://t.me/+ASBQltfIvPk2ZjNi).
 
 
 [Официальная памятка от городской администрации на немецком, английском и украинском языках](https://www.ettlingen.de/willkommen)/ Willkommenspapier
 
-#### Содержание 
+## Содержание 
 {:toc}
 
 [Важные особенности жизни в Германии](https://www.notion.so/9ae0a265ce894c9bb8c9e5876db76d02)
 
 [FAQ Карлсруэ для украинских беженцев](https://ukraine-karlsruhe.github.io/FAQ/)
 
-#### Небольшой словарь/Wortschatz
+### Небольшой словарь/Wortschatz
 {% include_relative 200-dictionary.md %}
 
-#### Corona
+### Corona
 {% include_relative 300-corona.md %}
 
-#### Экстренные ситуации/Notfall
+### Экстренные ситуации/Notfall
 {% include_relative 400-notfall-medizin.md %}
 
-#### Регистрация / Anmeldung
+### Регистрация / Anmeldung
 {% include_relative  500-anmeldung.md %}
 
-#### Жильё/ Wohnung
+### Жильё/ Wohnung
 
-#### Деньги. Социальная помощь / Sozialhilfe
+### Деньги. Социальная помощь / Sozialhilfe
 
 {% include_relative  700-geld-sozial.md %}
 
-#### Дети/Kinder
+### Дети/Kinder
 
 {% include_relative  800-kinder.md %}
 
-#### Языковые курсы / Sprachkurse
+### Языковые курсы / Sprachkurse
 
 {% include_relative 900-Sprachkurs.md %}
 
 
-#### SIM-Карта
+### SIM-Карта
 
 {% include_relative 1000-Mobilfunk.md %}
 
-#### Магазины Ettlingen/Läden
+### Магазины Ettlingen/Läden
 
 
 {% include_relative 1100-Laden.md %}
 
-#### Транспорт/ Verkehrsmittel
+### Транспорт/ Verkehrsmittel
 
 
 {% include_relative 1200-Verkehrsmittel.md %}
 
-#### Автомобиль / Auto
+### Автомобиль / Auto
 
 
 {% include_relative 1300-Auto.md %}
 
-#### Немецкие страховки/ Versicherung
+### Немецкие страховки/ Versicherung
 
 
 {% include_relative 1350-Versicherungen.md %}
 
-#### Работа/Arbeit
+### Работа/Arbeit
 
 
 {% include_relative 1400-Arbeit.md %}
 
-#### О нас
+### О нас
 
 {% include_relative 2000-About.md %}

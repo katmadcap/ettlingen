@@ -1,13 +1,13 @@
 
-^#### Жилье от города Ettlingen / von Stadt
+#### Жилье от города Ettlingen / von Stadt
 
 Пожалуйста помните, что бесплатное жилье предоставляется по доброй воле людей, который готовы вас приютить. И соответсвенно этот ресурс не бесконечный. Администрация города собирает все предложения , добавляет свои возможности размещения (например общежития) и распределяет их в порядке очереди. Вы можете написать письмо с просьбой помочь вам найти жильё сюда: Email: [ordnungsamt@ettlingen.de](mailto:ordnungsamt@ettlingen.de) Herr Hessel -Sozialamt
 
 Если у вас есть возможность предоставить жильё для беженцев, то вам следует так же писать на этот адрес.
 
-^#### ПОИСК ЖИЛЬЯ
+#### ПОИСК ЖИЛЬЯ
 
-^#### Временного/Kurzfristig
+#### Временного/Kurzfristig
 
 -   [](https://icanhelp.host/)[https://icanhelp.host/](https://icanhelp.host/)
 -   [](https://warmes-bett.de/)[https://warmes-bett.de/](https://warmes-bett.de/)
@@ -18,7 +18,7 @@
 -   [](https://www.shelter4ua.com/)[https://www.shelter4ua.com/](https://www.shelter4ua.com/)
 -   Также есть волонтерский чат по поиску жилья: [](https://t.me/ukrinikarlsruhe)[https://t.me/ukrinikarlsruhe](https://t.me/ukrinikarlsruhe) - Объявления: могу разместить, ищу жильё, предлагаю помощь.
 
-^#### Постоянного/Ständig
+#### Постоянного/Ständig
 
 -   [](https://www.wg-gesucht.de/)[https://www.wg-gesucht.de](https://www.wg-gesucht.de)
 -   [](https://www.immobilienscout24.de/)[https://www.immobilienscout24.de](https://www.immobilienscout24.de)
@@ -26,7 +26,7 @@
 
 [Особенности аренды квартир в Германии (1)](https://www.notion.so/1-a797eae9fbc141fea5b840ef49a81644)
 
-^#### Социальное жилье / Sozialwohnung
+#### Социальное жилье / Sozialwohnung
 
 Вы можите искать квартиру по программе социального жилья самостоятельно.
 
