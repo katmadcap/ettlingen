@@ -90,7 +90,7 @@ Integrationsbeauftragter der Stadt Ettlingen:
 
 **Нerr Thobias Pulimoottil ,** STADT ETTLINGEN Ordnungs-und Sozialamt SchillerstraBe 7-9, 76275 Ettlingen Fon: 07243 101-8371 Fax: 07243 101-433 E-Mailt: [thobias.pulimoottil@ettlingen.de](mailto:thobias.pulimoottil@ettlingen.de)
 
-# Одежда/Вещи/Продукты (Kleidung/Lebensmittel)
+#### Одежда/Вещи/Продукты (Kleidung/Lebensmittel)
 
 -   **Список требуемых вещей.** Многие жители города хотят и могут помочь одеждой и другими вещами. Чтобы получить эту помощь, постарайтесь составить список того, что вам нужно и напишите вашу просьбу в наш чат Телеграм.
 -   Рядом находится более крупный город Карлсруэ. Там больше организованной помощи, есть **склады**, куда можно приехать и что-то для себя подобрать и много волонтерских организаций. [Подробнее - в этом справочнике.](https://ukraine-karlsruhe.github.io/FAQ/)

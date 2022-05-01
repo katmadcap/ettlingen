@@ -8,14 +8,7 @@ layout: default
 
 > Das ist eine inoffizielle Webseite über die Stadt Ettlingen zur Unterstützung für Menschen, die vor dem Krieg in der Ukraine hierher geflohen sind. Wir haben sie ins Leben gerufen, um alle Informationen über unsere Stadt zu bündeln und neuen Menschen zu helfen, sich hier einzuleben.
 
-## Соседи
-Info для Waldbronn / Вальдброн здесь тоже частично представлена. [Чат помощи в Вальдброне - здесь](https://t.me/+ASBQltfIvPk2ZjNi).
-
-
 [Официальная памятка от городской администрации на немецком, английском и украинском языках](https://www.ettlingen.de/willkommen)/ Willkommenspapier
-
-## Содержание 
-{:toc}
 
 [Важные особенности жизни в Германии](https://www.notion.so/9ae0a265ce894c9bb8c9e5876db76d02)
 
