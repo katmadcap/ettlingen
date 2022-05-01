@@ -1,5 +1,5 @@
 
-### Школы в г. Ettlingen/ Schulen
+^#### Школы в г. Ettlingen/ Schulen
 
 Все дети, с 6 до 18 лет, проживающие на территории Германии обязаны посещать школы. Вновь прибывшие дети должны это сделать не позднее чем через 6 месяцев после прибытия или к началу следующего учебного года. Но у детей есть возможность начать ходить в школу уже сейчас.
 
@@ -19,11 +19,11 @@
 
 В Эттлингине есть школы с подготовительными классами для тех, кто не знает немецкий язык:
 
-### **Начальная школа (6-12 лет):**
+^#### **Начальная школа (6-12 лет):**
 
 Адрес: Lindenweg 6 - 8, 76275 Ettlingen Telefon: 07243 101-339 Fax: 07243 101-554 Schulleitung: Edelgard Schieschke Stellvertretung: Ulrike Resch Sekretariat: Heidi Gruber Jugendsozialarbeit: Lisa Tonschek (Telefon: 07243 101-389) Internet: [www.pestalozzischule-ettlingen.de](http://www.pestalozzischule-ettlingen.de/) E-Mail: [edelgrad.schieschke@pes-ettlingen.de](mailto:edelgrad.schieschke@pes-ettlingen.de)
 
-### **Средняя школа (13-15 лет) :**
+^#### **Средняя школа (13-15 лет) :**
 
 **Schillerschule:** Адрес: Scheffelstr. 1, 76275 Ettlingen Telefon: 07243 101-334 Fax: 07243 101-557 Директор: Stefanie Wagner Заместитель: Katharina Schneider Секриториат: Henrike Ochs Jugendsozialarbeit: Ina Gutmann (Telefon: 07243 101-335) Internet: [www.schillerschule-ettlingen.de](http://www.schillerschule-ettlingen.de/) E-Mail: [stefanie.wagner@schi-ettlingen.de](mailto:stefanie.wagner@schi-ettlingen.de)
 
@@ -39,7 +39,7 @@ Tel: 07243 101343
 
 E-Mail: [sekretariat@wlrs.de](mailto:sekretariat@wlrs.de)
 
-### **Старшая школа (16-18 лет) :**
+^#### **Старшая школа (16-18 лет) :**
 
 Гимназия сельскохозяйственных наук, гимназия биотехнологий, гимназия общественных наук, профессиональные школы, домашняя экономика, сельское хозяйство, социальное образование)
 
@@ -49,7 +49,7 @@ E-Mail: [sekretariat@wlrs.de](mailto:sekretariat@wlrs.de)
 
 [Общая информация о школах](https://www.ettlingen.de/informieren/bildung/schulen) на сайте города Эттлинген
 
-## Школы в Waldbronn
+#### Школы в Waldbronn
 
 Информация уточняется
 
@@ -98,7 +98,7 @@ Sehr geehrte Frau имя директора..
 
 Meine Name : ваше имя . Ich mit meine Familie aus Ukraine am дата приезда kommen. Wir wohnen Ваш адрес. Wir suchen ein Platz für unsere Tochter/Sohn дочери/сына имя. Sie/Er он/она ist сколько лет Jahre alt. Es wäre schön, wenn Sie ein Platz gefunden werden. Mit freundlichen Grüßen Ваше имя
 
-## Детские сады / Kindergarden
+#### Детские сады / Kindergarden
 
 В Эттлингене всегда был недостаток мест для детей в яслях и детских садах. Скорее всего этот вопрос не решится быстро. Обещают открыть специализированную смешанную группу на базе детского сада по адресу: **AWO Kita Weitblick /Piazza Menfi 1, 76275 Ettlingen.** В настоящий момент, администрация на стадии найма персонала. Как только появится информация об открытии группы - мы сообщим. Прошу обратить внимание, что дети в группу пойдут в порядке очереди, поэтому требуется подать документы.
 
@@ -132,7 +132,7 @@ Sehr geehrte Frau имя директора..
 
 Meine Name : ваше имя . Ich mit meine Familie aus Ukraine am дата приезда kommen. Wir wohnen Ваш адрес. Wir suchen ein Platz für unsere Tochter/Sohn дочери/сына имя. Sie/Er он/она ist сколько лет Jahre alt. Es wäre schön, wenn Sie ein Platz gefunden werden. Mit freundlichen Grüßen Ваше имя
 
-## **Досуг/Freizeit**
+#### **Досуг/Freizeit**
 
 **Детский городской клу**б [](https://www.kjz-specht.de/)[https://www.kjz-specht.de](https://www.kjz-specht.de)
 
@@ -180,14 +180,14 @@ tel:07243101312
 
 **Musikstudio 89** Daimlerstraße 8 | 76275 Ettlingen (фортепиано, труба, скрипка, барабаны) Telefon 07243 13952
 
-## Университет/ Hochschule
+#### Университет/ Hochschule
 
 Если у вас выполняются все условия для поступления в немецкий университет (уровень образования и знания языка), вы можете подать документы и получить студенческий вид на жительство в случае поступленя
 
 -   информация для студентов от KIT: [](https://www.intl.kit.edu/migrants.php)[https://www.intl.kit.edu/migrants.php](https://www.intl.kit.edu/migrants.php)
 -   англоязычные программы: [](https://www.sle.kit.edu/english/vorstudium/1019.php)[https://www.sle.kit.edu/english/vorstudium/1019.php](https://www.sle.kit.edu/english/vorstudium/1019.php)
 
-## Детские площадки / Kinderspielplatz
+#### Детские площадки / Kinderspielplatz
 
 Каждая площадка в нашем городе имеет имя - это названия животных. У вас есть прекрасная возможность выучить первые слова на немецком.
 
