@@ -1,23 +1,39 @@
 
 oбщая служба: 112 полиция: 110 полицейский участок в Ettlingen: 072 43-320-0312 скорая: 1 92 22 врачи: 116 117
 
-Перед посещением врача опишите свои жалобы текстом и переведите приложением, например [](https://www.deepl.com/)[https://www.deepl.com/](https://www.deepl.com/) и возьмите с собой к врачу.
+### **Сертификат на лечение**/ *Behandlungsausweis*
 
-_Так как у вас нет медицинской страховки, все счета по оплате срочных случаев берет на себя администрация города. Перед посещением врача вы должны запросить у администрации Behandlungsausweis - сертификат на лечение (голубая бумажка формата А3). И только с этой бумажкой вы можите поставить термин у врача._
+1. Если нет страховки: **Получите сертификат на лечение→ назначьте термин→ идите к врачу.**
+2. Если нет страховки, НО СЛУЧАЙ ЖИЗНИ И СМЕРТИ:   **Идите в скорую (адреса ниже) врачу БЕЗ Термина.**
+3. Если нет страховки, НО очень болит и терпеть не можете: **Назначьте термин→ убедитесь, что ваш случай является срочным и вас примут бесплатно→ идите к врачу.**
 
-**для Waldbronn**: Herr Stefan Schreier , Fabrikstr. 14c, 76337 Waldbronn Waldbronn тел: 0721-936-75220 - там есть переводчик)
+ИНАЧЕ СЧЕТ БУДЕТЕ ОПЛАЧИВАТЬ САМОСТОЯТЕЛЬНО! И такие случае у нас уже есть.
 
-**для Ettlingen**: Frau Selina Würz, Landratsamt Karlsruhe Amt für Integration Abteilung Beratung und Integration Anschrift/Adresse: Lindenweg 16 76275 Ettlingen ,Telefon: + 49 721936-73810, Mobilt: + 49 170 6808822 -73811 , Mail: [selina.wuerz@landratsamt-karlsruhe.de](mailto:selina.wuerz@landratsamt-karlsruhe.de) **
+Перед посещением врача опишите свои жалобы текстом и переведите приложением, например [https://www.deepl.com/](https://www.deepl.com/)  и возьмите с собой к врачу.
 
-_Примерный текст письма:_
+**Получение сертификата на лечение:**
+*Так как у вас нет медицинской страховки, все счета по оплате срочных случаев берет на себя администрация города. Перед посещением врача вы должны запросить у администрации Behandlungsausweis - сертификат на лечение (голубая/розовая бумажка формата А3). И только с этой бумажкой вы можете поставить термин у врача.*
 
-Seher geehrte Frau Würz.
+**для Waldbronn**: Herr Stefan Schreier , Fabrikstr. 14c, 76337 Waldbronn Waldbronn тел: 0721-936-75220 - там есть переводчик) 
 
-Meine Name Имя. Ich war am дата рождения geboren war. Ich bin eine ukrainische Flüchtlingen. (если проблема у ребенка: Mein Kind Имя и дата рождения braucht Hilfe). Wir bitten an einem Behandlungsausweis zum
+**для Ettlingen**:  Frau Corina Kuttner, Landratsamt Karlsruhe Amt für Integration Abteilung Beratung und Integration Anschrift/Adresse: An den Spiegelwiesen 1, 76689 Karlsdorf-Neuthard ,Telefon: [072193673230](tel:072193673230) , Mail: [Corina.Kuettner@landratsamt-karlsruhe.de](mailto:Corina.Kuettner@landratsamt-karlsruhe.de)
 
-Zahnarzt/Kinderarzt/ Schwangerschaft *Зубной врач/детский врач/ Женский врач - нужное оставить. Es wäre schon, wenn Sie uns auch mit Arzttermin helfen könnten.
+*Примерный текст письма:*
 
-Mit freundlichen Grüßen имя. номер телефона
+Seher geehrte Frau Kuttner.
+
+Meine Name Имя. Ich war am дата рождения geboren .Ich bin ein ukrainischer Flüchtling.  (если проблема у ребенка: Mein Kind Имя и дата рождения braucht Hilfe).
+Wir bitten an einem Behandlungsausweis zum  
+
+Zahnarzt/Kinderarzt/ Schwangerschaft   *Зубной врач/детский врач/ Женский врач - нужное оставить.
+Es wäre schon, wenn Sie uns auch mit Arzttermin könnten helfen .
+
+Mit freundlichen Grüßen имя.
+номер телефона
+
+Сертификат по почте идет около **3 недель**. ЛИБО вы можете забрать его самостоятельно, для этого эту информацию нужно указать в письме и получить подтверждение.
+
+
 
 #### Срочная помощь/ Notdienstpraxis
 
